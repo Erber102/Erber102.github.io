@@ -1,2 +1,2 @@
-# Erber102.github.io
+# lumosyc.github.io
 Personal website and academic homepage
